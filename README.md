@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mick-voegeli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mick-voegeli" height="30" width="40" /></a>
 <a href="https://instagram.com/mick.vgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mick.vgl" height="30" width="40" /></a>
-<a href="[[https://discord.gg/749269270634168381](https://discord.com/users/749269270634168381)](https://discord.com/users/749269270634168381)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="749269270634168381" height="30" width="40" /></a>
+<a href="[[https://discord.com/users/749269270634168381](https://discord.com/users/749269270634168381)](https://discord.com/users/749269270634168381)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="749269270634168381" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
