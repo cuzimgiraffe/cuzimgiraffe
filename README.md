@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuckthatgiraffe&label=Profile%20views&color=0e75b6&style=flat" alt="fuckthatgiraffe" /> </p>
 
-- I’m currently learning: **x64-86 Asm**
+- I’m currently learning: **x86-64 Asm**
 
 - Ask me about: **SOC Operations and Analysis + Python Programming**
 
