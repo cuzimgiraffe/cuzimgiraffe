@@ -5,7 +5,7 @@
 
 - I’m currently learning: **x64-86 Asm**
 
-- Ask me about: **SOC Analysis and Python Programming**
+- Ask me about: **SOC Operations and Analysis + Python Programming**
 
 - How to reach me: **Discord, Email, Telegram,...**
 
