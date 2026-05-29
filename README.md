@@ -3,21 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fuckthatgiraffe&label=Profile%20views&color=0e75b6&style=flat" alt="fuckthatgiraffe" /> </p>
 
-- I’m currently learning **x64-86 Asm**
+- I’m currently learning: **x64-86 Asm**
 
-- Ask me about **SOC Analysis and Python Programming**
+- Ask me about: **SOC Analysis and Python Programming**
 
-- 📫 How to reach me **Discord, Email, Telegram,...**
+- How to reach me: **Discord, Email, Telegram,...**
 
-- Know about my experiences [https://voegeli.koeln/](https://voegeli.koeln/)
+- Know about my experiences: On my Website!
 
-- Fun fact **just because you use a VPN doesn't mean your safe my friend :)**
+- Fun fact: **just because you use a VPN doesn't mean your safe my friend :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mick-voegeli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mick-voegeli" height="30" width="40" /></a>
 <a href="https://instagram.com/mick.vgl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mick.vgl" height="30" width="40" /></a>
-<a href="https://discord.gg/749269270634168381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="749269270634168381" height="30" width="40" /></a>
+<a href="[[https://discord.gg/749269270634168381](https://discord.com/users/749269270634168381)](https://discord.com/users/749269270634168381)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="749269270634168381" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
