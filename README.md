@@ -1,6 +1,12 @@
 # About Me:
 I'm a German Developer and Cybersecurity Specialist. Here you can find a few of my 3 am<br>Coding Ideas and Random stuff that came into my mind.
 
+<a href="https://tryhackme.com/p/cuzimgiraffe">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cuzimgiraffe/cuzimgiraffe/main/badges/thm-adventure-dark.gif">
+    <img alt="TryHackMe: cuzimgiraffe, 0x11 Vanguard, 172 day streak" src="https://raw.githubusercontent.com/cuzimgiraffe/cuzimgiraffe/main/badges/thm-adventure-light.gif" width="638">
+  </picture>
+</a>
 
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/749269270634168381) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mick.vgl) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info@voegeli.koeln) 
