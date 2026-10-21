@@ -1,7 +1,7 @@
 name: TryHackMe badge
 on:
   schedule:
-    - cron: "23 4 * * *"   # pick any minute and hour you like, in UTC
+    - cron: "23 4 * * *"
   workflow_dispatch:
 permissions:
   contents: write
