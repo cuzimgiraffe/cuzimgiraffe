@@ -4,7 +4,7 @@ I'm a German Developer and Cybersecurity Specialist. Here you can find a few of 
 <a href="https://tryhackme.com/p/cuzimgiraffe">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cuzimgiraffe/cuzimgiraffe/main/badges/thm-adventure-dark.gif">
-    <img alt="TryHackMe: cuzimgiraffe, 0x11 Vanguard, 172 day streak" src="https://raw.githubusercontent.com/cuzimgiraffe/cuzimgiraffe/main/badges/thm-adventure-dark.gif" width="638">
+    <img alt="TryHackMe: cuzimgiraffe, 0x11 Vanguard, 174 day streak" src="https://raw.githubusercontent.com/cuzimgiraffe/cuzimgiraffe/main/badges/thm-adventure-light.gif" width="638">
   </picture>
 </a>
 
