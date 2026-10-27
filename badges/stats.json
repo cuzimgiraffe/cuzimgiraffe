@@ -14,14 +14,14 @@
   "redditUsername": "",
   "discordUsername": "cuzimgiraffe",
   "calendlyUrl": "",
-  "totalPoints": 91134,
+  "totalPoints": 91278,
   "displayedCertificateTypes": [
     "SEC0"
   ],
-  "badgesNumber": 68,
-  "completedRoomsNumber": 579,
-  "streak": 176,
-  "largestStreak": 176,
+  "badgesNumber": 69,
+  "completedRoomsNumber": 580,
+  "streak": 177,
+  "largestStreak": 177,
   "rank": 965,
   "topPercentage": 1,
   "isInTopTenPercent": true,
@@ -29,7 +29,7 @@
   "userRole": "student",
   "leagueTier": "diamond",
   "capabilityScore": {
-    "value": 100.9162,
+    "value": 100.91760000000001,
     "pov": "red"
   },
   "isPrivateProfile": false,
