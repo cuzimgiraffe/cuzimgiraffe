@@ -14,22 +14,22 @@
   "redditUsername": "",
   "discordUsername": "cuzimgiraffe",
   "calendlyUrl": "",
-  "totalPoints": 92506,
+  "totalPoints": 92674,
   "displayedCertificateTypes": [
     "SEC0"
   ],
   "badgesNumber": 72,
-  "completedRoomsNumber": 591,
+  "completedRoomsNumber": 592,
   "streak": 203,
   "largestStreak": 203,
-  "rank": 960,
+  "rank": 953,
   "topPercentage": 1,
   "isInTopTenPercent": true,
   "badgeImageURL": "https://tryhackme-badges.s3.amazonaws.com/cuzimgiraffe.png",
   "userRole": "student",
   "leagueTier": "diamond",
   "capabilityScore": {
-    "value": 90,
+    "value": 100.11,
     "pov": "red"
   },
   "isPrivateProfile": false,
